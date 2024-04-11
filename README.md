@@ -12,5 +12,5 @@ killing enemies along the way with different abilities, then fight a boss at the
 - Cuphead, Hollow Knight, Mega Man
 
 "Similar to Cuphead with the different shooting abilities, similar to Hollow Knight with platforming and melee combat,
-and similar to Mega Man in level design, but takes place in a medieval setting where you can collet armour, swords, 
+and similar to Mega Man in level design, but takes place in a medieval setting where you can collect armour, swords, 
 shields, spears, axes, and bows"
